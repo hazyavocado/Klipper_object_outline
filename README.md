@@ -3,4 +3,4 @@ post processing script for Orcaslicer to generate actual object outlines for exc
 
 usage:
 
-in post processing script section of the slicer, put "/path/to/python /path/to/exact_outline_post.py" without the quotes.
+in post processing script section of the slicer, put "/path/to/python /path/to/exact_outline_post.py" without the quotes. now you will see the actual shape of the object in the exclude objects page.
