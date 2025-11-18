@@ -3,4 +3,4 @@ post processing script for Orcaslicer to generate actual object outlines for exc
 
 usage:
 
-in post processing script section of the slicer, put "/path/to/python /path/to/script.py" without the quotes, where script.py is the script in this repo.  
+in post processing script section of the slicer, put "/path/to/python /path/to/exact_outline_post.py" without the quotes.
